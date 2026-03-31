@@ -5,8 +5,7 @@
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="<img width="1919" height="990" alt="Screenshot 2026-01-06 114228" src="https://github.com/user-attachments/assets/4d8fa836-ed3a-40e0-ac72-8b1e4a4b163e" />
-" width="700"/>
+  <img src="Screenshot 2026-01-06 114228.png" width="700"/>
 </p>
 
 ## 🎯 Objectives
